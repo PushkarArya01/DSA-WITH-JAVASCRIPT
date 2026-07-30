@@ -60,4 +60,5 @@ If you find this repository helpful, consider giving it a **⭐ Star**.
 ### 👨‍💻 Author
 
 **Pushkar Arya**
+
 Backend Developer | JavaScript Enthusiast | Full Stack Learner
